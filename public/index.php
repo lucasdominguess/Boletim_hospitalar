@@ -116,6 +116,4 @@ $response = $app->handle($request);
 $responseEmitter = new ResponseEmitter();
 $responseEmitter->emit($response);
 
-// $username = $_SESSION[User::USER_NAME]?? '';
-// define('username',$username);
 
