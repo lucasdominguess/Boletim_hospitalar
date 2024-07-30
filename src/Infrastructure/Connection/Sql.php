@@ -1,5 +1,7 @@
 <?php
-namespace App\Infrastructure\Persistence\User;
+namespace App\Infrastructure\Connection;
+
+
 use App\classes\CreateLogger;
 
 

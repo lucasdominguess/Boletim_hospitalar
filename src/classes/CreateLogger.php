@@ -63,7 +63,7 @@ class CreateLogger {
 
         $logger->pushHandler( new TelegramBotHandler(
             apiKey:"6896066213:AAEfj5TxiJaH6m2CEsP9fJZh3BUvpPfypzw",
-            channel:"@Aniversario_AppWeb",
+            channel:"@Boletim_appWeb",
             level:Level::Warning
     ));
         $this->loggerCSV($title,$msg,$nivel);

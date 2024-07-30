@@ -1,5 +1,6 @@
 <?php
-namespace App\Infrastructure\Persistence\User;
+namespace App\Infrastructure\Connection;
+
 
 use Redis;
 use RedisException;
