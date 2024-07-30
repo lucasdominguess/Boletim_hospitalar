@@ -31,7 +31,7 @@
         "slim/psr7": "^1.5",
         "slim/slim": "^4.10",
         "firebase/php-jwt": "^6.10",
-        "guzzlehttp/guzzle": "^7.8",
+        "guzzlehttp/guzzle": "^7.9",
         "league/csv": "9.0",
         "slim/twig-view": "^3.3",
         "voku/anti-xss": "^4.1"
